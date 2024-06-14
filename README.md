@@ -1,2 +1,2 @@
 # class2
-this node
+this node2
